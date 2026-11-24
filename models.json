@@ -1,0 +1,266 @@
+{
+  "OAM-XS-mpa": {
+    "file": "OAM-XS-mpa.pt",
+    "sha256": "97ed99c917b480d0479c78f6f83daed6d0fc0817b5747204ab7695df70294daa",
+    "bytes": 611694,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size XS"
+  },
+  "OAM-XS-omat": {
+    "file": "OAM-XS-omat.pt",
+    "sha256": "f4f48de9d7bd80e33cbf7543cb86dbacae678da491a2389293bd14c8d96ab21a",
+    "bytes": 612609,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size XS"
+  },
+  "OAM-S-omat": {
+    "file": "OAM-S-omat.pt",
+    "sha256": "a5323a8d111e0d9953d3b59095e9deb8e1628768c5c26e2b2786fd29b587701f",
+    "bytes": 1255290,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size S"
+  },
+  "OAM-M-mpa": {
+    "file": "OAM-M-mpa.pt",
+    "sha256": "ddcf939840519ab4afbbb120892a3ea391fe6c1901fbb4e6607878925a17a841",
+    "bytes": 3450851,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size M"
+  },
+  "OAM-M-omat": {
+    "file": "OAM-M-omat.pt",
+    "sha256": "d91134cb05f478fc0dbd7c8f110ce02b5753b8cd898069a67eaed9426d666b0e",
+    "bytes": 3451770,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size M"
+  },
+  "OAM-L-mpa": {
+    "file": "OAM-L-mpa.pt",
+    "sha256": "33c1cde665c687b29f9f78dfd562d4641a60af13f44a33a73eb8a2cf5002b6a5",
+    "bytes": 3908045,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size L"
+  },
+  "OAM-L-omat": {
+    "file": "OAM-L-omat.pt",
+    "sha256": "cf2e0ca38f422021d2a74b0198d711a69e916780b74071d688798a8e7db04763",
+    "bytes": 3908953,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size L"
+  },
+  "OAM-XL-mpa": {
+    "file": "OAM-XL-mpa.pt",
+    "sha256": "ab439e32e936c1515724522278520ec885eabf79858943a8c1968cb09c07e6bf",
+    "bytes": 27915145,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size XL"
+  },
+  "OAM-XL-omat": {
+    "file": "OAM-XL-omat.pt",
+    "sha256": "8bbfede5933f75bcb5c6ecca05ff2bda74257ef00d9cb182410a4489b10f16a1",
+    "bytes": 27916069,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size XL"
+  },
+  "OAM-XXL-mpa": {
+    "file": "OAM-XXL-mpa.pt",
+    "sha256": "a38cf532dead2cae0ffb0cd3a4eebb12e033d689287b13954a4a44ee309feadc",
+    "bytes": 111423697,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size XXL"
+  },
+  "OAM-XXL-omat": {
+    "file": "OAM-XXL-omat.pt",
+    "sha256": "537756f6dc56c36c76598a3b9b0318ed16b27332882293ac151e3a775e9d1dee",
+    "bytes": 111424600,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size XXL"
+  },
+  "OAM-L-mpa-WiSE10": {
+    "file": "OAM-L-mpa-WiSE10.pt",
+    "sha256": "9a5cdd923a463bda4a26de89bff9b6e806dafafb186dd68d0aa230ae44564104",
+    "bytes": 3906913,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size L; uniform average of 10 stage-2 fine-tunes"
+  },
+  "OAM-L-omat-WiSE10": {
+    "file": "OAM-L-omat-WiSE10.pt",
+    "sha256": "029cd0ea825be9dccdf0f0a0967fc46c1da92cc9cb9af16e7956a35db02ba5a2",
+    "bytes": 3906989,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size L; uniform average of 10 stage-2 fine-tunes"
+  },
+  "OAM-XXL-mpa-WiSE10": {
+    "file": "OAM-XXL-mpa-WiSE10.pt",
+    "sha256": "9a148e8586f0d7792fde424767c65a99766cd2417c90974f85706171b80e93a3",
+    "bytes": 111422402,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size XXL; uniform average of 10 stage-2 fine-tunes"
+  },
+  "OAM-L-mpa-seed1": {
+    "file": "OAM-L-mpa-seed1.pt",
+    "sha256": "762bc9fdd1dcb6d7b7debf0c4364a257f68ca32327491b80f95f8d2726e0fe4d",
+    "bytes": 3908629,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size L; committee member, seed 1"
+  },
+  "OAM-L-mpa-seed2": {
+    "file": "OAM-L-mpa-seed2.pt",
+    "sha256": "0b5c348f83bca2a9a61d5dd00231523e8d6890f9030f64a938e3262e2bee4741",
+    "bytes": 3908629,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size L; committee member, seed 2"
+  },
+  "OAM-L-mpa-seed3": {
+    "file": "OAM-L-mpa-seed3.pt",
+    "sha256": "77dc44dc24e0442673ecf3bdda4fd97c69778ef524fc86383a148a2bb1c4620d",
+    "bytes": 3908629,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size L; committee member, seed 3"
+  },
+  "OAM-L-mpa-seed4": {
+    "file": "OAM-L-mpa-seed4.pt",
+    "sha256": "c8fbf4fea4abd3be00bccf24775648d86e2f0afcdc25fc9c9dc26e88c440bb98",
+    "bytes": 3908629,
+    "about": "OMat24 + sAlex + MPtrj, then MPtrj + sAlex; size L; committee member, seed 4"
+  },
+  "OAM-L-omat-seed1": {
+    "file": "OAM-L-omat-seed1.pt",
+    "sha256": "d1e8dc605b758738b34663873f6c42ed28db8c2e2a82a01d4a0b25b0db279848",
+    "bytes": 3909601,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size L; committee member, seed 1"
+  },
+  "OAM-L-omat-seed2": {
+    "file": "OAM-L-omat-seed2.pt",
+    "sha256": "8485669714a8df620047570ebb0554fa7f58786f78c333c76607b42d87dfc223",
+    "bytes": 3909601,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size L; committee member, seed 2"
+  },
+  "OAM-L-omat-seed3": {
+    "file": "OAM-L-omat-seed3.pt",
+    "sha256": "b9e6e9f84ed02a52386c4641394d47cbd133ed37f999327a4e7e5ae7c222ed26",
+    "bytes": 3909601,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size L; committee member, seed 3"
+  },
+  "OAM-L-omat-seed4": {
+    "file": "OAM-L-omat-seed4.pt",
+    "sha256": "7d35dfc211032b640451f18832cbed07674290d4f570f1738373a8f79e3e7074",
+    "bytes": 3909601,
+    "about": "OMat24 + sAlex + MPtrj, then OMat24; size L; committee member, seed 4"
+  },
+  "MATPES-PBE-XS": {
+    "file": "MATPES-PBE-XS.pt",
+    "sha256": "16db2ea13aada76ee214802e26c3028463066690573602b45227d40124f4453a",
+    "bytes": 612391,
+    "about": "MatPES PBE; size XS"
+  },
+  "MATPES-PBE-S": {
+    "file": "MATPES-PBE-S.pt",
+    "sha256": "2743a0dafa6c8cc9b9c5455ecb1237e6a7ed296fb8fd282c31a291fa6d81c91e",
+    "bytes": 1255080,
+    "about": "MatPES PBE; size S"
+  },
+  "MATPES-PBE-M": {
+    "file": "MATPES-PBE-M.pt",
+    "sha256": "8b678edd1c5395c92c6b858d8f05f65cfb5ad2faeaa4d3cb232c630f83066776",
+    "bytes": 3451560,
+    "about": "MatPES PBE; size M"
+  },
+  "MATPES-PBE-L": {
+    "file": "MATPES-PBE-L.pt",
+    "sha256": "4a20b9fd9def6b6d04b6a73b7d61c24377d98d919f336a5980ba7332365e2c09",
+    "bytes": 3908273,
+    "about": "MatPES PBE; size L"
+  },
+  "MATPES-PBE-XL": {
+    "file": "MATPES-PBE-XL.pt",
+    "sha256": "8eb875c0f24a59b1f128012b2cdcd49128936e368a811fafaba181fc8ec681f7",
+    "bytes": 27915293,
+    "about": "MatPES PBE; size XL"
+  },
+  "MATPES-PBE-XXL": {
+    "file": "MATPES-PBE-XXL.pt",
+    "sha256": "a09e9ee9dfd9946b7ea642a69dd59dd1ce1d13c7403cf867396c2def83a4f6db",
+    "bytes": 111423782,
+    "about": "MatPES PBE; size XXL"
+  },
+  "MATPES-r2SCAN-XS": {
+    "file": "MATPES-r2SCAN-XS.pt",
+    "sha256": "999e3882c9d9a962b59c80bdfbe09e571d84686b514c167b7778cf11fadd4392",
+    "bytes": 612640,
+    "about": "MatPES r2SCAN; size XS"
+  },
+  "MATPES-r2SCAN-S": {
+    "file": "MATPES-r2SCAN-S.pt",
+    "sha256": "8b0df5b9e6e7c67f1ed55588175d60766e9407e6b617f737fc9e1d061a114e38",
+    "bytes": 1255341,
+    "about": "MatPES r2SCAN; size S"
+  },
+  "MATPES-r2SCAN-M": {
+    "file": "MATPES-r2SCAN-M.pt",
+    "sha256": "d171babc340e84aabc20f4299749b551586a1903f6b4f4eaa2026c3f4cc70500",
+    "bytes": 3451821,
+    "about": "MatPES r2SCAN; size M"
+  },
+  "MATPES-r2SCAN-L": {
+    "file": "MATPES-r2SCAN-L.pt",
+    "sha256": "c6d1a30f1a01f24e191dbf2eac4ebc813f86304c87c5cd912b566b6ffc6da3a8",
+    "bytes": 3908501,
+    "about": "MatPES r2SCAN; size L"
+  },
+  "MATPES-r2SCAN-XL": {
+    "file": "MATPES-r2SCAN-XL.pt",
+    "sha256": "02b8378075084187bc841db2a702ffae9d7c253168d8078685d7aaf1fc6179c6",
+    "bytes": 27915633,
+    "about": "MatPES r2SCAN; size XL"
+  },
+  "MATPES-r2SCAN-XXL": {
+    "file": "MATPES-r2SCAN-XXL.pt",
+    "sha256": "c2751a13c2a7cc90dded21f27171c837bc3c3f7cf1a2213b1bbe5efbcd068e3c",
+    "bytes": 111423995,
+    "about": "MatPES r2SCAN; size XXL"
+  },
+  "OMOL-XS": {
+    "file": "OMOL-XS.pt",
+    "sha256": "ba0ec13ff91a3e104db5e6d827daf9d14f01a5a33cbaadf03a6f851d5549ed14",
+    "bytes": 649909,
+    "about": "OMol25 (charge and spin); size XS"
+  },
+  "OMOL-S": {
+    "file": "OMOL-S.pt",
+    "sha256": "f8810860ebb4593dd5138b161d257c442489656e88e6cbeb2ebd22b3edcdbf96",
+    "bytes": 1292570,
+    "about": "OMol25 (charge and spin); size S"
+  },
+  "OMOL-M": {
+    "file": "OMOL-M.pt",
+    "sha256": "27bd6d1cd59b5fb14f8b95c2ec88f3b716f1bc2bc0a5b609d80fc5cb7baf41ea",
+    "bytes": 3521818,
+    "about": "OMol25 (charge and spin); size M"
+  },
+  "OMOL-L": {
+    "file": "OMOL-L.pt",
+    "sha256": "b490d00e7020eb15244a48cc2edc79cef230edb91774f4c2194ef0507932ca73",
+    "bytes": 3979045,
+    "about": "OMol25 (charge and spin); size L"
+  },
+  "OMOL-XL": {
+    "file": "OMOL-XL.pt",
+    "sha256": "cc991cf45894a5583a13ae0c4004b654c5675ca1b5786b79d19ba03ca5c508cd",
+    "bytes": 28055733,
+    "about": "OMol25 (charge and spin); size XL"
+  },
+  "SOLIDACID-S": {
+    "file": "SOLIDACID-S.pt",
+    "sha256": "05b4f7fbf419d1f961368dc19650794c8fbc635921db1f26fedb29d7870c3996",
+    "bytes": 1254353,
+    "about": "SOLID-ACID-0; size S"
+  },
+  "SOLIDACID-M": {
+    "file": "SOLIDACID-M.pt",
+    "sha256": "f723e84d5e88899e84592073b9a25c0eb7f5c49b96a0604c9e4b660cd67c81d9",
+    "bytes": 3450833,
+    "about": "SOLID-ACID-0; size M"
+  },
+  "SOLIDACID-L": {
+    "file": "SOLIDACID-L.pt",
+    "sha256": "ef9d4cf324b765db72a41dc75b66e9488a326b42965bd7340027a8b24a44478a",
+    "bytes": 3908005,
+    "about": "SOLID-ACID-0; size L"
+  },
+  "OAM-S-mpa": {
+    "file": "OAM-S-mpa.pt",
+    "sha256": "9f5bd394a060b9790682ef7a590fb7e32b540c37be40f337927138ba11e46dee",
+    "bytes": 1254371,
+    "about": "OMat24 + sAlex + MPtrj (8 epochs), then MPtrj + sAlex (10 epochs); size S"
+  },
+  "OAM-S30-mpa": {
+    "file": "OAM-S30-mpa.pt",
+    "sha256": "abfae2a1b734d5017397097ca9c7e921d6f7a88082cf490e31ef17ff74f13b33",
+    "bytes": 1254371,
+    "about": "OMat24 + sAlex + MPtrj (30 epochs), then MPtrj + sAlex (15 epochs); size S"
+  }
+}
